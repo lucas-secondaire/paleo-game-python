@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Warrior",
+        "max_health_points": 3,
+        "strength": 1,
+        "perception": 0,
+        "skill": 0,
+        "gift": "Torch"
+    },
+    {
+
+    }
+]

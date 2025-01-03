@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Deer",
+        "actions": [
+            {
+                "id": 1,
+                "conditions": {
+                    "strength": 2,
+                    "perception": 1,
+                    "discardCards": 2,
+                    "destroy": true
+                },
+                "rewards": {
+                    "meats": 2,
+                    "leather": 1
+                }
+            },
+            {
+                "id": 2,
+                "conditions": {
+                    "help": true
+                }
+            }
+        ]
+    }
+]
